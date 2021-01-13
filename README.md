@@ -18,3 +18,6 @@ C00000DE C00000DE
 ## Instructions
 Run in JGecko U with the CosmoCortney codehandler. 
 See https://gbatemp.net/threads/jgecko-u-setup-guide.426292/ for details on JGecko U.
+
+
+### This Repo is Originalized
